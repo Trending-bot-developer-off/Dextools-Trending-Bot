@@ -5,6 +5,7 @@ A bot to trend a token on Dextools using python and proxies
 
 ## About
 A bot to trend a token on Dextools using Python software and rotating proxies.
+
 works for all chain trending hot pairs
 
 you cannot just use this bot by downloading this repository
