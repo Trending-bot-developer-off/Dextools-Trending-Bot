@@ -10,6 +10,8 @@ works for all chain trending hot pairs
 
 you cannot just use this bot by downloading this repository
 
+Trending Proof already completed on youtube, [check here](https://youtu.be/SUx09pv5oRA)
+
 If you are interested contact me through here <a href="#contact">Contact</a>
 
 
