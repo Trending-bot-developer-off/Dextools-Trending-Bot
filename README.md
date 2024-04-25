@@ -42,6 +42,8 @@ Find me on Youtube : https://www.youtube.com/channel/UCz5r6iZ1g-ehoB2Kjl9etnw
 
 TUTORIAL Video : https://youtu.be/vdpJ5a39gYg
 
+Trending Proof : https://youtu.be/SUx09pv5oRA
+
 
 
 
