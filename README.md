@@ -16,7 +16,7 @@ If you are interested contact me through here <a href="#contact">Contact</a>
 
 
 ## Installation
-🔺First, Install Python 3.12.2 with must tick on python environment variable and install for all users.
+🔺First, Install Python 3.13.0 with must tick on python environment variable and install for all users.
 
 🔺secondly, Run Setup.bat
 
@@ -29,7 +29,7 @@ If you are interested contact me through here <a href="#contact">Contact</a>
 
 🔺 Up to date chrome version
 
-🔺 Python Latest Version 3.12.2
+🔺 Python Latest Version 3.13.0
 
 🔺 Rotating Proxies / Residetial Proxies
 
